@@ -1,6 +1,7 @@
 # gatsby-plugin-netlify-redirect
 
 Fork from [gatsby-plugin-netlify](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-netlify), fix locales pages ordered problem
+
 Automatically generates a `_headers` file and a `_redirects` file at the root of the public folder to configure
 [HTTP headers](https://www.netlify.com/docs/headers-and-basic-auth/) and [redirects](https://www.netlify.com/docs/redirects/) on Netlify.
 
